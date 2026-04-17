@@ -1,0 +1,16 @@
+
+ {
+	"id": "FastForward",
+	"name": "FastForward",
+	"display_name": "FastForward",
+	"author": ["bloopygup"],
+	"description": "fastforward",
+	"prefix": "FF",
+	"main_file": "FastForward.lua",
+	"priority": 1000000000000000000,
+	"badge_colour": "",
+	"badge_text_colour": "",
+	"version": "1.0.0",
+	"dependencies": ["Steamodded (>=1.0.0~BETA-1221a)"]
+}
+
