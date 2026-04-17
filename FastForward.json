@@ -7,7 +7,7 @@
 	"description": "fastforward",
 	"prefix": "FF",
 	"main_file": "FastForward.lua",
-	"priority": 1000000000000000000,
+	"priority": 10000000000000000000,
 	"badge_colour": "",
 	"badge_text_colour": "",
 	"version": "1.0.0",
