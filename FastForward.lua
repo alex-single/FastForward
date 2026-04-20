@@ -90,7 +90,7 @@ SMODS.Keybind {
     event = "pressed",
     action = function(self)
         tempspeedhold = G.SETTINGS.GAMESPEED
-        G.SETTINGS.GAMESPEED = 20
+        G.SETTINGS.GAMESPEED = 35
         FF.label.text = G.SETTINGS.GAMESPEED .. "X"
     end
 }
