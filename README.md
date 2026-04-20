@@ -1,6 +1,6 @@
 # FastForward
 
-A [Steamodded](https://github.com/Steamopollys/Steamodded) mod for Balatro that adds more game speed options.
+A [Steamodded](https://github.com/Steamopollys/Steamodded) qol mod for Balatro that adds game speeds to ui and Also speeds up game if you hold space bar.
 
 ## Features
 
