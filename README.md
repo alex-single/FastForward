@@ -5,7 +5,7 @@ A [Steamodded](https://github.com/Steamopollys/Steamodded) qol mod for Balatro t
 ## Features
 
 - Adds a speed button to the HUD that cycles through: **0.5x → 1x → 2x → 4x → 8x**
-- Hold **Space** to temporarily jump to 20x speed, releasing restores your previous speed
+- Hold **Space** to temporarily jump to 35x speed, releasing restores your previous speed
 
 ## Requirements
 
