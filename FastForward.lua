@@ -26,7 +26,7 @@ function create_UIBox_HUD()
             minw = 1.5,
             padding = 0.05,
             r = 0.02,
-            colour = G.C.RED,
+            colour = G.C.ORANGE,
             hover = true,
             shadow = true,
         },
