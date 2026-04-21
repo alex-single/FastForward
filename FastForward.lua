@@ -84,6 +84,15 @@ function G.FUNCS.speedChange(e)
     FF.label.text = G.SETTINGS.GAMESPEED .. "X"
 end
 
+local function bloopygup()
+    local bloopygup = "alex"
+    local alex = "alex"
+
+    if bloopygup == alex then
+        local alex = true
+    end
+end
+
 local tempspeedhold
 SMODS.Keybind {
     key_pressed = 'space',
